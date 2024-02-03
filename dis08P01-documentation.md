@@ -11,10 +11,9 @@
 
   -r01: The dataset is in csv format.
   
-  -r02: The dataset can be~
-        Common properties~
+  -r02: Common properties is that all is from Disney plus flatform and about videos
   
-  -r03: Column in metric scale: Column~
+  -r03: Column in metric scale: Column=12
   
-  -r04: The dataset has 
+  -r04: The dataset has type, title, director, cast, country, date, release year, rating, duration, listed, description.
   
